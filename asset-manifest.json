@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f2ae0d3.css",
+    "main.js": "/static/js/main.437b7005.js",
+    "static/media/banner-img.svg": "/static/media/banner-img.e412b9e795b99ff175016a40334e762d.svg",
+    "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.2f7a846126c7d5ee9163.ttf",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.647f0e61af3a76a138c3.ttf",
+    "static/media/ser-icon-5.svg": "/static/media/ser-icon-5.a827505276ee1adf6b81454f6a56e1bd.svg",
+    "static/media/ser-icon-3.svg": "/static/media/ser-icon-3.54237c30f4b5da3320f26366824a0561.svg",
+    "static/media/ser-icon-1.svg": "/static/media/ser-icon-1.e335c736cf7e78350bf5ad86149d18aa.svg",
+    "static/media/ser-icon-6.svg": "/static/media/ser-icon-6.b86323c0d6d9e8e276d53557aa091d42.svg",
+    "static/media/contact-img.svg": "/static/media/contact-img.1dc7f4c09bf05527a6a2b4bbcf59e283.svg",
+    "static/media/ser-icon-2.svg": "/static/media/ser-icon-2.db45d46829e23aad35c95d4acabcd2f1.svg",
+    "static/media/ser-icon-4.svg": "/static/media/ser-icon-4.d895ab9b3f05ac92f4148568fec795f6.svg",
+    "static/media/logo.svg": "/static/media/logo.5f542f8ba5d15f7fbf71e76f2e4f6cb2.svg",
+    "static/media/logo-white.svg": "/static/media/logo-white.5757d4d0939c44e63a7f51cdb96321fe.svg",
+    "static/media/cart-icon.svg": "/static/media/cart-icon.05e8e6d8a3c15bdc4521d3756a40cdb5.svg",
+    "index.html": "/index.html",
+    "static/media/profile-icon.svg": "/static/media/profile-icon.22198f51518757bf0a6e580093925763.svg",
+    "static/media/burger-close.svg": "/static/media/burger-close.c6713a8a9a9dcd8d8740df74ee772f44.svg",
+    "static/media/burger-icon.svg": "/static/media/burger-icon.826e6fa5d4a28d550ed3a56b61f7a2d0.svg",
+    "main.1f2ae0d3.css.map": "/static/css/main.1f2ae0d3.css.map",
+    "main.437b7005.js.map": "/static/js/main.437b7005.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f2ae0d3.css",
+    "static/js/main.437b7005.js"
+  ]
+}
